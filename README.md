@@ -1,6 +1,4 @@
 # Reboot2023
-My 2nd repository
+My second repository for Reboot 1.0 in 2023
 
-## My first joke on github
 
-cats
